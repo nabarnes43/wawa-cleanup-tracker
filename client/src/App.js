@@ -2,10 +2,6 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './components/Home';
 import About from './components/About';
-import CreateUser from './components/CreateUser';
-import UpdateUser from './components/UpdateUser';
-import DeleteUser from './components/DeleteUser';
-import UserList from './components/UserList';
 import Navbar from './components/Navbar/Navbar.js'; 
 
 
